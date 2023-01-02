@@ -13,7 +13,10 @@ python -m venv .
 ./Scripts/Activate.ps1 # or other scripts for other shells 
 pip install -r requirements.txt
 ```
-You can run this software with executable or Python file. For Python file, you need to follow above instructions.
+You can run this software with executable or Python file. For Python file, you need to follow above instructions. 
+After automated browser closed "yorumlar.csv" named file will be created in that directory. 
+
+
 
 
 
